@@ -1,0 +1,1 @@
+External USB camera
